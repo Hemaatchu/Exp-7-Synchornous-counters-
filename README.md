@@ -53,32 +53,38 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+
+Developed by: Hemavathy.S
+RegisterNumber:  23013552
+
+
+## Code:
+![upcounter code](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/b5e0817a-6ede-49ea-b1d6-f6e235eec0c9)
+
+![downcounter code](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/13080680-7ada-4e06-a26f-f8c43ccd8840)
+
+## Truth table:
+![up counter tt](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/e9b8ee98-bfc0-4f57-aec6-c4c29d48bb96)
+
+![down couter tt](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/543366bd-e3c1-40be-8a2c-1ef16740d1f9)
+
+## Circuit diagram:
+
+![upcounter diagram](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/06ceeaba-59eb-498e-964c-b0f6b5dc635e)
+
+
+![down counter diagram](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/437d93f8-fe5b-4da3-ae42-c8e79e84e3e9)
+
+
+## Output:
+
+
+![uc output](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/4cbe0705-a519-4c52-8ff2-89e80cc7e1db)
 
 
 
-
-
-
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
+![dc output](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/c2aba731-f685-4094-a994-45a683771b8f)
 
 
 
