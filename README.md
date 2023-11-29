@@ -90,5 +90,6 @@ RegisterNumber:  23013552
 
 
 
-
 ### RESULTS 
+
+ Thus the up counter nad downcounter circuit and truth table are formed by a quartus system.
