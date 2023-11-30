@@ -60,21 +60,34 @@ RegisterNumber:  23013552
 
 
 ## Code:
+
+## Upcounter
 ![upcounter code](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/b5e0817a-6ede-49ea-b1d6-f6e235eec0c9)
+
+## Downcounter
 
 ![downcounter code](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/13080680-7ada-4e06-a26f-f8c43ccd8840)
 
 ## Truth table:
+
+## Upcounter
 ![up counter tt](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/e9b8ee98-bfc0-4f57-aec6-c4c29d48bb96)
+
+## Downcounter
 
 ![down couter tt](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/543366bd-e3c1-40be-8a2c-1ef16740d1f9)
 
 ## Circuit diagram:
 
+## Upcounter
+
 ![upcounter diagram](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/06ceeaba-59eb-498e-964c-b0f6b5dc635e)
 
 
-![down counter diagram](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/437d93f8-fe5b-4da3-ae42-c8e79e84e3e9)
+## Downcounter
+
+![downcounter](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/f3da9a04-ddfd-4851-ae05-4386016f9de2)
+
 
 
 ## Output:
