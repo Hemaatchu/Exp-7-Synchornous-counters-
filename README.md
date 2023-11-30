@@ -92,10 +92,10 @@ RegisterNumber:  23013552
 
 ## Output:
 
-
+## Upcounter
 ![uc output](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/4cbe0705-a519-4c52-8ff2-89e80cc7e1db)
 
-
+## Downcounter
 
 ![dc output](https://github.com/Hemaatchu/Exp-7-Synchornous-counters-/assets/147328300/c2aba731-f685-4094-a994-45a683771b8f)
 
